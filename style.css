@@ -26,6 +26,7 @@
 }
 .border:hover{
     border:1.5px solid white;
+    padding: 5px;
 }
 /**Box2**/
 .add-first{
